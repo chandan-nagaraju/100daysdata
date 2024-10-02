@@ -1,6 +1,6 @@
 # 100daysdata
 
-## Syllabus for 1st 10 days(24.09.224 - 04.09.2024) 
+## Syllabus for 1st 10 days(02.10.224 - 14.10.2024) 
 
 1. EDA, Covariance, Correlation, Pearson, Spearman Rank, Multi-dimensional, Feature Engineering, Column normalization, Standardization, Covariance matrix, Missing Values, Outlier treatment
     Vector space modeling, Cosine Similarity, Euclidean Distance
@@ -12,6 +12,7 @@
 
 # Day 1-2: Exploratory Data Analysis (EDA) & Feature Engineering
  ## Theory:
+    started learning python libraris like numpy, pandas, matplotlib, seaborn.
     Understand types of correlations (Pearson, Spearman) and covariances.
     Learn the principles of multi-dimensional data and feature engineering techniques.
 ## Practical:
